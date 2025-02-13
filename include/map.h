@@ -5,14 +5,14 @@
 #include "sensor.h"
 using namespace std;
 class Map{
-    public:
-    // Public property //
+    private:
+    // property //
     double mapWidth,mapHeight;
     double gridWidth,gridHeight;
     vector <vector<double>> logOddsValues;
     // log odds: unknown, occupied and free states
     double l0,locc,lfree;
-    
+    public:
     // Method //
     Map(double mapWidth,double mapHeight,double gridWidth,double gridHeight,double l0, double locc, double lfree);
     void updateMap(Robot &robot, Sensor &sensor,double sensorData[]);
