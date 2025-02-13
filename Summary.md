@@ -72,8 +72,8 @@ Upon reviewing the data in `robot.csv`, we observed that at 10 milliseconds the 
 
 ![Modified Map](./Images/Map_modified.png)
 ### References
-1. LiDAR Inverse Sensor Modelling for Occupancy Grid Mapping in the Context of Autonomous Vehicles - Page 22: http://www.diva-portal.org/smash/get/diva2:1900124/FULLTEXT01.pdf
-2. Occupancy grid mapping lecture: https://www.youtube.com/watch?v=1f_m5aJFIj4
-3. Compiling a program — Matplotlib for C++ documentation: https://matplotlib-cpp.readthedocs.io/en/latest/compiling.html
-4. Robond occupancy grid mapping: https://github.com/korhanmd/robond-occupancy-grid-mapping
-5. Install and Run Matplotlib for C++ in VS Code: https://www.youtube.com/watch?v=Xp3ntYGs8No&t=400s
+1. [LiDAR Inverse Sensor Modelling for Occupancy Grid Mapping in the Context of Autonomous Vehicles - Page 22] http://www.diva-portal.org/smash/get/diva2:1900124/FULLTEXT01.pdf
+2. [Occupancy grid mapping lecture] https://www.youtube.com/watch?v=1f_m5aJFIj4
+3. [Compiling a program — Matplotlib for C++ documentation] https://matplotlib-cpp.readthedocs.io/en/latest/compiling.html
+4. [Robond occupancy grid mapping] https://github.com/korhanmd/robond-occupancy-grid-mapping
+5. [Install and Run Matplotlib for C++ in VS Code] https://www.youtube.com/watch?v=Xp3ntYGs8No&t=400s
